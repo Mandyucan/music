@@ -1,7 +1,7 @@
 [
     {
-        "image": "/source/song_1.jpg",
-        "audio": "/source/song_1.mp3",
+        "image": "./source/song_1.jpg",
+        "audio": "./source/song_1.mp3",
         "song": "Happy Birthday",
         "album": "Mandy",
         "singer": "Be Happy!",
@@ -9,8 +9,8 @@
         "isLike": false
     },
     {
-        "image": "/source/song_2.jpg",
-        "audio": "/source/song_2.mp3",
+        "image": "./source/song_2.jpg",
+        "audio": "./source/song_2.mp3",
         "song": "Marry You",
         "album": "The Pop Hit Mix",
         "singer": "Party Hit Kings",
@@ -18,8 +18,8 @@
         "isLike": true
     },
     {
-        "image": "/source/song_3.jpg",
-        "audio": "/source/song_3.mp3",
+        "image": "./source/song_3.jpg",
+        "audio": "./source/song_3.mp3",
         "song": "像我这样的人",
         "album": "明日之子",
         "singer": "毛不易",
@@ -27,8 +27,8 @@
         "isLike": true
     },
     {
-        "image": "/source/song_4.jpg",
-        "audio": "/source/song_4.mp3",
+        "image": "./source/song_4.jpg",
+        "audio": "./source/song_4.mp3",
         "song": "Shape of You",
         "album": "÷",
         "singer": "Ed sheeran",
@@ -37,8 +37,8 @@
     },
     
     {
-        "image": "/source/song_5.jpg",
-        "audio": "/source/song_5.mp3",
+        "image": "./source/song_5.jpg",
+        "audio": "./source/song_5.mp3",
         "song": "丑八怪",
         "album": "意外",
         "singer": "薛之谦",
@@ -46,8 +46,8 @@
         "isLike": true
     },
     {
-        "image": "/source/song_6.jpg",
-        "audio": "/source/song_6.mp3",
+        "image": "./source/song_6.jpg",
+        "audio": "./source/song_6.mp3",
         "song": "小半",
         "album": "小梦大半",
         "singer": "陈粒",
