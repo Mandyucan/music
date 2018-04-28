@@ -6,7 +6,7 @@
         "album": "Mandy",
         "singer": "Be Happy!",
         "duration": 127,
-        "isLike": false
+        "isLike": true
     },
     {
         "image": "./source/song_2.jpg",
