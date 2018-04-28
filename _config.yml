@@ -1,5 +1,0 @@
-theme: jekyll-theme-time-machine
-# Deployment
-deploy:
-  type: git
-  repo: https://github.com/tsungruihon/tsungruihon.github.io
